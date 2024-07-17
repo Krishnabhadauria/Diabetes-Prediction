@@ -15,7 +15,7 @@ The dataset used in this project is `diabetes.csv`, sourced from Kaggle. It cont
 ## <span style="color:#16a085;">Installation</span>
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/diabetes-prediction.git
+    git clone https://github.com/Krishnabhadauria/Diabetes-Prediction.git
     cd diabetes-prediction
     ```
 2. Set up a virtual environment:
